@@ -52,3 +52,7 @@
 
 ### 3.4 AI Chatbot for General Queries
 - An AI chatbot should be available to answer general user queries related to products, shipping, and other basic inquiries.
+
+
+# Rough work
+https://github.com/Fathin-Ishrak-Romeo/471Project_Rough-work?tab=readme-ov-file

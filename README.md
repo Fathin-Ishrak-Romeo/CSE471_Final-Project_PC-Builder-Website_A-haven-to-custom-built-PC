@@ -1,5 +1,8 @@
-# Advance Version
-[PCGenixAI](https://github.com/Fathin-Ishrak-Romeo/PCGenixAI)
+# Updated Version
+[PCGenixAI](https://github.com/Fathin-Ishrak-Romeo/PCGenixAI/tree/main)
+
+# Rough work
+https://github.com/Fathin-Ishrak-Romeo/471Project_Rough-work?tab=readme-ov-file
 
 # Project Report
 https://docs.google.com/document/d/1CnfnhCB3PZ72sEp9p4WlmSPwemFBQg9urdnvHK9683s/edit?usp=sharing
@@ -59,6 +62,3 @@ https://docs.google.com/document/d/1CnfnhCB3PZ72sEp9p4WlmSPwemFBQg9urdnvHK9683s/
 ### 3.4 AI Chatbot for General Queries
 - An AI chatbot should be available to answer general user queries related to products, shipping, and other basic inquiries.
 
-
-# Rough work
-https://github.com/Fathin-Ishrak-Romeo/471Project_Rough-work?tab=readme-ov-file

@@ -1,6 +1,9 @@
 # Advance Version
 [PCGenixAI](https://github.com/Fathin-Ishrak-Romeo/PCGenixAI)
 
+# Project Report
+https://docs.google.com/document/d/1CnfnhCB3PZ72sEp9p4WlmSPwemFBQg9urdnvHK9683s/edit?usp=sharing
+
 # Functional Requirements
 
 ## Module 1: User Management
